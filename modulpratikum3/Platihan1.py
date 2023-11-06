@@ -1,6 +1,6 @@
 print("Modul Pratikum 3 latihan 1")
 
-print("MAsukan nilai N = 5")
+print("Masukan nilai N = 5")
 import random
 jumlah = 5
 a = 0
